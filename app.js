@@ -20,3 +20,7 @@ const lod = require('lodash')
 const items = [1,[2,[3,[4]]]]
 const newitems = lod.flattenDeep(items)
 console.log(newitems)
+
+
+// git  config --global user.email "you@example.com"
+//git config --global user.name "Your Name"
